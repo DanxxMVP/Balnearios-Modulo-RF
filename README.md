@@ -10,7 +10,7 @@ Key Features:
 - User-Friendly Interface: It provides an intuitive interface for uploading images, performing detections, and visualizing results.
   
 
-[![buenogithub.png](https://i.postimg.cc/j5CHjT6T/buenogithub.png)](https://postimg.cc/phbh0g1c)
+[![buenogithub.png](https://i.postimg.cc/j5CHjT6T/buenogithub.png)]([![Captura-de-pantalla-2024-07-30-230227.png](https://i.postimg.cc/7ZFMrN9X/Captura-de-pantalla-2024-07-30-230227.png)](https://postimg.cc/fVv0xm60))
 
 ## Built With
 
@@ -59,23 +59,13 @@ To get a local copy up and running follow these simple example steps.
 👤 **Author 1**
 - GitHub: [@DanxxMVP](https://github.com/DanxxMVP)
   
-👤 **Author 2**
-- GitHub: [@allop10](https://github.com/allop10 )
-
-
-👤 **Author 3**
-- GitHub: [@noe-lopezzz](https://github.com/noe-lopezzz)
-  
-👤 **Author 4**
-- GitHub: [@eleazin](https://github.com/Eleazin7)
-  
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [SecureFace-NE](https://drive.google.com/drive/folders/1eQ7SbtAZ7huvQltfnvhtKjj7Se_1M5PG?usp=drive_link).
+Feel free to check the [SecureFace-NE]().
 You can consult user manuals
 ## Show your support
 
