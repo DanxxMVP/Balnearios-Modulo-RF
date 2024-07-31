@@ -10,7 +10,7 @@ Key Features:
 - User-Friendly Interface: It provides an intuitive interface for uploading images, performing detections, and visualizing results.
   
 
-[![buenogithub.png](<a href='https://postimg.cc/fVv0xm60' target='_blank'><img src='https://i.postimg.cc/fVv0xm60/Captura-de-pantalla-2024-07-30-230227.png' border='0' alt='Captura-de-pantalla-2024-07-30-230227'/></a>)]()
+[![buenogithub.png](https://postimg.cc/fVv0xm60)]()
 
 ## Built With
 
